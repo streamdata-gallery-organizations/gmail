@@ -4,7 +4,7 @@ x-collection-name: Gmail
 x-complete: 1
 info:
   title: Gmail
-  description: access-gmail-mailboxes-including-sending-user-email
+  description: access-gmail-mailboxes-including-sending-user-email-
   contact:
     name: Google
     url: https://google.com

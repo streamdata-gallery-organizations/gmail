@@ -6,10 +6,10 @@ description: The Gmail API is a RESTful API that can be used to access Gmail mai
   is the best choice for authorized access to a users Gmail data.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gmail-icon.png
 x-kinRank: "10"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Gmail
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/gmail/master/_listings/gmail/apis.md
 specificationVersion: "0.14"
 apis:

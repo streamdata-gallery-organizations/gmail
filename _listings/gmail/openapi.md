@@ -1,14 +1,9 @@
----
 swagger: "2.0"
 x-collection-name: Gmail
 x-complete: 1
 info:
   title: Gmail
-  description: access-gmail-mailboxes-including-sending-user-email-
-  contact:
-    name: Google
-    url: https://google.com
-  version: v1
+  version: 1.0.0
 host: www.googleapis.com
 basePath: /gmail/v1/users
 schemes:
@@ -1270,4 +1265,3 @@ paths:
           description: OK
       tags:
       - Push Notification
----

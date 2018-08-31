@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Gmail",
+	"description": "This is a repository of gmail APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/gmail.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://gmail.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Gmail",
+			"x-api-slug": "gmail",
+			"description": "The Gmail API is a RESTful API that can be used to access Gmail mailboxes and send mail. For most web applications (including mobile apps), the Gmail API is the best choice for authorized access to a users Gmail data.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gmail-icon.png",
+			"humanURL": "https://www.google.com/gmail/",
+			"baseURL": "https:///",
+			"tags": "Gmail",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/gmail/master/_listings/gmail/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Gmail",
+	"include": [
+		{
+			"name": "Gmail",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/gmail/master/_listings/gmail/apis.yaml"
+		}
+	]
+}
